@@ -11,6 +11,7 @@
 ***
 
 * ## 테이블 구조 및 생성 결과
+> ![datasql](https://user-images.githubusercontent.com/52397000/85850201-49b2bb80-b7e7-11ea-9a56-fa96e619fb49.PNG)
 > ![db](https://user-images.githubusercontent.com/52397000/85845171-d1e09300-b7de-11ea-99fa-9ad0f978044c.PNG)
 > * 첫 실행시 자동 생성되는 테이블입니다.
 
