@@ -5,16 +5,18 @@
 
 ***
 
-# Spring Boot를 활용하여 Product에 대한<br>CRUD 메소드를 제공하는 REST API를 구현하라.
+* # Spring Boot를 활용하여 Product에 대한<br>CRUD 메소드를 제공하는 REST API를 구현하라.
 <br>
 
 ***
 
-## 테이블 구조 및 생성 결과
+* ## 테이블 구조 및 생성 결과
 > ![db](https://user-images.githubusercontent.com/52397000/85845171-d1e09300-b7de-11ea-99fa-9ad0f978044c.PNG)
 > * 첫 실행시 자동 생성되는 테이블입니다.
+
 ***
-## API Method 실행 과정 및 결과
+
+* ## API Method 실행 과정 및 결과
 > ### 1. Get full list of products: http://localhost:9090/api/v1/products
 > ![GetProducts1](https://user-images.githubusercontent.com/52397000/85845648-88447800-b7df-11ea-8ab5-a7f30ec481a1.PNG)
 > ![GetProducts2](https://user-images.githubusercontent.com/52397000/85845667-92ff0d00-b7df-11ea-9022-cfae06f29d5f.PNG)
@@ -47,7 +49,7 @@
 
 <br>
 
-## Spring Boot의 acuator를 활용하여<br> Products REST API에 대한 URL Mapping 정보 캡쳐 결과
+* ## Spring Boot의 acuator를 활용하여<br> Products REST API에 대한 URL Mapping 정보 캡쳐 결과
 > ### app info 정보 http://localhost:9090/actuator/info
 > ![info](https://user-images.githubusercontent.com/52397000/85849202-7e257800-b7e5-11ea-9fbc-95403b0feff6.PNG)
 > * application.properties에서 설정한 info 내용입니다.
